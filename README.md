@@ -1,11 +1,11 @@
-About r-sigclust
-================
+About r-sigclust-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sigclust-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=sigclust
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sigclust-feedstock/blob/main/LICENSE.txt)
 
 Summary: SigClust is a statistical method for testing the significance of clustering results. SigClust can be applied to assess the statistical significance of splitting a data set into two clusters. For more than two clusters, SigClust can be used iteratively.
 
